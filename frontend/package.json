@@ -47,7 +47,7 @@
     "@loaders.gl/csv": "^2.2.8",
     "axios": "^0.21.1",
     "baseui": "9.106.0",
-    "camelcase": "^5.2.0",
+    "camelcase": "^6.2.0",
     "classnames": "^2.2.6",
     "clipboard": "^2.0.6",
     "color2k": "^1.1.0",
@@ -102,7 +102,7 @@
   },
   "devDependencies": {
     "@craco/craco": "^6.0.0",
-    "@deck.gl/json": "^8.2.5",
+    "@deck.gl/json": "^8.3.12",
     "@types/classnames": "^2.2.10",
     "@types/clipboard": "^2.0.1",
     "@types/d3": "^5.7.2",
