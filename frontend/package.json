@@ -98,7 +98,7 @@
   },
   "devDependencies": {
     "@craco/craco": "^6.0.0",
-    "@deck.gl/json": "^8.2.5",
+    "@deck.gl/json": "^8.4.0",
     "@types/classnames": "^2.2.10",
     "@types/clipboard": "^2.0.1",
     "@types/d3": "^5.7.2",
