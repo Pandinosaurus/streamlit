@@ -103,7 +103,7 @@
   },
   "devDependencies": {
     "@craco/craco": "^6.0.0",
-    "@deck.gl/json": "^8.2.5",
+    "@deck.gl/json": "^8.4.15",
     "@testing-library/dom": "^7.30.3",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^13.1.2",
