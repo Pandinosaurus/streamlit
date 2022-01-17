@@ -17045,10 +17045,10 @@ type@^2.0.0:
   resolved "https://registry.yarnpkg.com/type/-/type-2.3.0.tgz#ada7c045f07ead08abf9e2edd29be1a0c0661132"
   integrity sha512-rgPIqOdfK/4J9FhiVrZ3cveAjRRo5rsQBAIhnylX874y1DX/kEKSVdLsnuHB6l1KTjHyU01VjiMBHgU2adejyg==
 
-typed-signals@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/typed-signals/-/typed-signals-2.2.0.tgz#521adf534d779cfbba135208b512e09154d82d02"
-  integrity sha512-jnhtsz24pprrh/ZREVAdOMTgASEj1P3tCGVoJ5mtfPd++TOMn7cEx5j7ODah/9cD5Wske6CDjnTFdi7hbTtCsA==
+typed-signals@^2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/typed-signals/-/typed-signals-2.4.0.tgz#148507440999c4f47133f26913253821d4b662e0"
+  integrity sha512-s16+/36GO7gpBbDwpclhUlC37uEYTbPUy5YfREGNJ8SQLDHcVyu/1SrH2jmjTrquZ7md1QwgFqhjfxJ9PTxZwA==
 
 typedarray-pool@^1.1.0:
   version "1.2.0"
